@@ -1,4 +1,4 @@
-module github.com/go-git/go-git/v5
+module github.com/sroemen/go-git/v5
 
 require (
 	github.com/Microsoft/go-winio v0.4.16 // indirect
